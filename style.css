@@ -19,6 +19,15 @@ input[type="button"]{
     height: 300px;
     font-size: 100px;
 }
+input[type="number"]{
+    width: 300px;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif; color: white;
+    background-color: #07133b;
+    border: 12px solid;
+    border-color: #000000;
+    
+}
 #Result{
     font-size: 100px;
     color: white;
