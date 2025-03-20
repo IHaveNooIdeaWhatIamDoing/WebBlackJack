@@ -1,0 +1,25 @@
+body{
+    font-size: 100px ;
+    background-color: #383d4f;
+    font-family: Arial, Helvetica, sans-serif ; color: white;
+}
+#DealerCardsDiv{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+#PlayerCardsDiv{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+input[type="button"]{
+    width: 1000px;
+    height: 300px;
+    font-size: 100px;
+}
+#Result{
+    font-size: 100px;
+    color: white;
+}
